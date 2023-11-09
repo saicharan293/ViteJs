@@ -1,0 +1,14 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  padding: 0px 8px;
+}
+
+.navigation ul {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  list-style: none;
+  font-weight: 500;
+}
